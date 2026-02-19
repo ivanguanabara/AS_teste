@@ -22,9 +22,6 @@ Cada spec deverá ter uma describe com nome apropriado e com 2 cenários descrit
 Spec 1 — Login
 Arquivo: cypress/e2e/login/login.cy.js
 
-Suite 1 — Login (Fácil)
-Arquivo: cypress/e2e/login/login.cy.js
-
 Cenário 1 — Login com credenciais válidas
 Informar usuário e senha corretos e verificar o redirecionamento para a página inicial da aplicação.
 Objetivo - Ser redirecionado para a URL > https://stg-amei.amorsaude.tech/ com confirmação
