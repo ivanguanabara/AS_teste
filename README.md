@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# AS_teste
+Usado para realizar teste de automação para QA
+
+>>>>>>> 59ba0a85b17e0577509ec7994976df4511ff0d5f
 Live Code — QA Pleno com Cypress
 
 Bem-vindo ao desafio de automação! Este repositório já possui o projeto Cypress configurado. Sua missão é implementar os cenários de teste descritos abaixo.
@@ -69,3 +75,7 @@ Given
 When
 And (caso necessite)
 Then
+<<<<<<< HEAD
+=======
+
+>>>>>>> 59ba0a85b17e0577509ec7994976df4511ff0d5f
