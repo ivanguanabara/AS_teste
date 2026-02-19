@@ -1,0 +1,14 @@
+{
+  "name": "qa_teste_amei",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ivan29071985 <ivan.santos@amorsaude.com>",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.10.0"
+  }
+}
