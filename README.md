@@ -60,7 +60,7 @@ Objetivo - Clicar na proposta sem declarar todos os campos obrigátorio e recebe
 
 Flash
 
-Faça o básico para tingir o resultado esperado
+Faça o básico para atingir o resultado esperado
 
 ----------------------------------------------------------------------------------------------------------------
 Opcional
