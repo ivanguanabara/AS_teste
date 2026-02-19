@@ -65,6 +65,8 @@ Faça o básico para atingir o resultado esperado
 ----------------------------------------------------------------------------------------------------------------
 Opcional
 
+Descreva o seguinte cenário para teste Manual 
+
 Usar o gherkin para descrever o cenario de senha incorreta usando...
 
 Given
