@@ -7,13 +7,32 @@ Live Code — QA Pleno com Cypress
 
 Bem-vindo ao desafio de automação! Este repositório já possui o projeto Cypress configurado. Sua missão é implementar os cenários de teste descritos abaixo.
 
+Instalar dependências do projeto
+
 Pré-requisitos
 Certifique-se de ter instalado:
 
 Node.js v22
 npm
 Git
-"Iniciar o cypress com o comando que está no package.json
+Para inicializar o cypress deverá usar o comando 'npm run cy:open'
+
+1 - Desafio
+
+Descreva o seguinte cenário usando gherkin (pode ser usado qualquer bloco de anotação)
+
+Cenário 1 — Validar Login com credenciais válidas
+Cenário 2 — Validar criação de agendamento com dados válidos
+Cenário 3 — Validar criação de proposta com dados válidos
+
+Use a estrutura abaixo
+
+Dado
+Quando
+E (caso necessite)
+Então
+
+-----------------------------------------------------------------------------------------------
 
 Todos deverá ser executado no ambiente de (https://stg-amei.amorsaude.tech/auth/login)
 
@@ -63,13 +82,6 @@ Flash
 Faça o básico para atingir o resultado esperado
 
 ----------------------------------------------------------------------------------------------------------------
-Opcional
 
-Descreva o seguinte cenário para teste Manual 
 
-Usar o gherkin para descrever o cenario de senha incorreta usando...
 
-Given
-When
-And (caso necessite)
-Then

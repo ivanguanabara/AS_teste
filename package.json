@@ -5,8 +5,7 @@
   "author": "ivan29071985 <ivan.santos@amorsaude.com>",
   "license": "MIT",
   "scripts": {
-    "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:open": "cypress open"
   },
   "devDependencies": {
     "cypress": "^15.10.0"
