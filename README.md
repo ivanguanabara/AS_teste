@@ -1,6 +1,7 @@
 
 =======
-# AS_teste
+# QA-TECHNICAL-TEST
+
 Usado para realizar teste de automação para QA
 
 Live Code — QA Pleno com Cypress
